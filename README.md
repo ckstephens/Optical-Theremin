@@ -11,3 +11,5 @@ Different lookup tables are used to mimic the sounds of different instruments.
 A 4x4 keypad is used to select different instruments.
 
 The pdf contains demonstrations and documentation.
+
+My responsibilities included processing inputs and building the apparatus.
