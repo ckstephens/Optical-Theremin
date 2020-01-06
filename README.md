@@ -1,5 +1,5 @@
 # Optical-Theremin
-Theremin using Arduino and ultrasonic sensors
+Theremin using Arduino and ultrasonic sensors.
 
 A theremin implemented using two Arduino boards: one for computing the audio, and one for processing the inputs.
 
@@ -9,3 +9,6 @@ The audio signal is produced by mapping the distance read from the ultrasonic se
 Different lookup tables are used to mimic the sounds of different instruments.
 
 A 4x4 keypad is used to select different instruments.
+
+Link to project wiki:
+https://wiki-class.cse.tamu.edu/index.php/Theremin%2B#Demo
